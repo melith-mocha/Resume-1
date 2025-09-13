@@ -1,6 +1,8 @@
 <html>
 <head>
 </head>
+<title>Resume</title>
+
 <body bgcolor=#FFF7E6>
 
 <tr><td><img src="mel.jpg" width=250 height=250></tr><td><br>
