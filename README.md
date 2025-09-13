@@ -1,7 +1,6 @@
 <html>
 <head>
 </head>
-<title>Resume</title>
 
 <body bgcolor=#FFF7E6>
 
